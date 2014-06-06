@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Lims\AndroidStudioProjects\HelloxPrototype\app\build\pre-dexed\debug\Parse-1.5.1-f1b614a6fcd4741dee649982d6da05516b13069a.jar"
+        jar="C:\Users\Lims\AndroidStudioProjects\HelloxPrototype\app\libs\Parse-1.5.1\Parse-1.5.1.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="3d645417e7780d44f32e29a3ec6b729b75aef26c"/>
+    <item
+        dex="C:\Users\Lims\AndroidStudioProjects\HelloxPrototype\app\build\pre-dexed\debug\classes-7e364f0e3cdf1427f8ea9dac3a5de973407fa3a7.jar"
+        jar="C:\Users\Lims\AndroidStudioProjects\HelloxPrototype\build\exploded-aar\HelloxPrototype\facebook\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="6f39def91e328125f428b4663ed1c2b766ee9d1a"/>
+    <item
+        dex="C:\Users\Lims\AndroidStudioProjects\HelloxPrototype\app\build\pre-dexed\debug\classes-a727c43499a8b75b1b31711a9772dad1484117df.jar"
+        jar="C:\Users\Lims\AndroidStudioProjects\HelloxPrototype\build\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+    <item
+        dex="C:\Users\Lims\AndroidStudioProjects\HelloxPrototype\app\build\pre-dexed\debug\bolts-e22ea92daeee62bee3aa375674ef8e10c44956f5.jar"
+        jar="C:\Users\Lims\AndroidStudioProjects\HelloxPrototype\build\exploded-aar\HelloxPrototype\facebook\unspecified\libs\bolts.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef"/>
+    <item
+        dex="C:\Users\Lims\AndroidStudioProjects\HelloxPrototype\app\build\pre-dexed\debug\support-v4-19.0.1-a738a2d72d319620c654c8808b711bab173bf26b.jar"
+        jar="C:\Users\Lims\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+
+</pre-dex-items>
